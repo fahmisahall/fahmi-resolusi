@@ -1,0 +1,4 @@
+RESOLUSI PPL :
+1. Ngerti bootstrap
+  khususnya bootstrap 3 atau 4 atau 5
+2. design CBT jadi bagus
